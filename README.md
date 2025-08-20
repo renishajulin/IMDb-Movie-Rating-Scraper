@@ -27,14 +27,6 @@ webdriver-manager – automatically manages ChromeDriver
 
 🚀 Installation
 
-Clone the repository
-
-git clone https://github.com/your-username/imdb-movie-rating-scraper.git
-cd imdb-movie-rating-scraper
-
-
-Install dependencies
-
 pip install selenium pandas webdriver-manager
 
 
